@@ -7,3 +7,5 @@
 ### otra modificacion
 
 ### clase huelga
+
+#### METODO CLONANDO Y AÑADIDO A MI REPOSITORIO CON LA CONSOLA 
